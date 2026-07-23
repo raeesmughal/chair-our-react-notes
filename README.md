@@ -1,1 +1,3 @@
-This is readme file for local-repo
+# Chai Our React Playlist by `Hitesh`.
+
+This repo contains code I practiced in chair our code playlist. for each video their is a folder that contains all the code of that topic.
